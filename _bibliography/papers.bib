@@ -1,55 +1,35 @@
-@article{DBLP:journals/twc/SunSMLZ24,
-  author       = {Yuchang Sun and
-                  Jiawei Shao and
-                  Yuyi Mao and
-                  Songze Li and
-                  Jun Zhang},
-  title        = {Stochastic Coded Federated Learning: Theoretical Analysis and Incentive
-                  Mechanism Design},
-  journal      = {{IEEE} Trans. Wirel. Commun.},
-  volume       = {23},
-  number       = {6},
-  pages        = {6623--6638},
-  year         = {2024},
-  url          = {https://doi.org/10.1109/TWC.2023.3334732},
-  doi          = {10.1109/TWC.2023.3334732},
-  timestamp    = {Wed, 19 Jun 2024 22:22:17 +0200},
-  biburl       = {https://dblp.org/rec/journals/twc/SunSMLZ24.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-  bibtex_show={true},
-  pdf={https://arxiv.org/pdf/2211.04132}
+// A fundamental tradeoff between computation and communication in distributed computing
+@ARTICLE{8051074,
+  author={Li, Songze and Maddah-Ali, Mohammad Ali and Yu, Qian and Avestimehr, A. Salman},
+  journal={IEEE Transactions on Information Theory}, 
+  title={A Fundamental Tradeoff Between Computation and Communication in Distributed Computing}, 
+  year={2018},
+  volume={64},
+  number={1},
+  pages={109-128},
+  keywords={Encoding;Distributed databases;Benchmark testing;Electrical engineering;Electronic mail;Distributed computing;MapReduce;computation-communication tradeoff;coded multicasting;coded TeraSort},
+  doi={10.1109/TIT.2017.2756959},
+  bib_show={true},
+  pdf={https://arxiv.org/pdf/1604.07086},
+  }
+
+// Lagrange coded computing: Optimal design for resiliency, security, and privacy
+@InProceedings{pmlr-v89-yu19b,
+  title = 	 {Lagrange Coded Computing: Optimal Design for Resiliency, Security, and Privacy},
+  author =       {Yu, Qian and Li, Songze and Raviv, Netanel and Kalan, Seyed Mohammadreza Mousavi and Soltanolkotabi, Mahdi and Avestimehr, Salman A.},
+  booktitle = 	 {Proceedings of the Twenty-Second International Conference on Artificial Intelligence and Statistics},
+  pages = 	 {1215--1225},
+  year = 	 {2019},
+  editor = 	 {Chaudhuri, Kamalika and Sugiyama, Masashi},
+  volume = 	 {89},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {16--18 Apr},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v89/yu19b/yu19b.pdf},
+  url = 	 {https://proceedings.mlr.press/v89/yu19b.html},
+  abstract = 	 {We consider a  scenario involving computations over a massive dataset stored distributedly across multiple workers, which is at the core of distributed learning algorithms. We propose Lagrange Coded Computing (LCC), a new framework to simultaneously provide (1) resiliency against stragglers that may prolong computations; (2) security against Byzantine (or malicious) workers that deliberately modify the computation for their benefit; and (3) (information-theoretic) privacy of the dataset amidst possible collusion of workers. LCC, which leverages the well-known Lagrange polynomial to create computation redundancy in a novel coded form across workers, can be applied to any computation scenario in which the function of interest is an arbitrary multivariate polynomial of the input dataset, hence covering many computations of interest in machine learning. LCC significantly generalizes prior works to go beyond linear computations. It also enables secure and private computing in distributed settings, improving the computation and communication efficiency of the state-of-the-art. Furthermore, we prove the optimality of LCC by showing that it achieves the optimal tradeoff between resiliency, security, and privacy, i.e., in terms of tolerating the maximum number of stragglers and adversaries, and providing data privacy against the maximum number of colluding workers. Finally, we show via experiments on Amazon EC2 that LCC speeds up the conventional uncoded implementation of distributed least-squares linear regression by up to $13.43\times$, and also achieves a $2.36\times$-$12.65\times$ speedup over the state-of-the-art straggler mitigation strategies.},
+  bib_show = {true},
+  pdf={http://proceedings.mlr.press/v89/yu19b/yu19b.pdf},
 }
 
-@article{DBLP:journals/corr/abs-2403-15377,
-  author       = {Yi Wang and
-                  Kunchang Li and
-                  Xinhao Li and
-                  Jiashuo Yu and
-                  Yinan He and
-                  Guo Chen and
-                  Baoqi Pei and
-                  Rongkun Zheng and
-                  Jilan Xu and
-                  Zun Wang and
-                  Yansong Shi and
-                  Tianxiang Jiang and
-                  Songze Li and
-                  Hongjie Zhang and
-                  Yifei Huang and
-                  Yu Qiao and
-                  Yali Wang and
-                  Limin Wang},
-  title        = {InternVideo2: Scaling Video Foundation Models for Multimodal Video
-                  Understanding},
-  journal      = {CoRR},
-  volume       = {abs/2403.15377},
-  year         = {2024},
-  url          = {https://doi.org/10.48550/arXiv.2403.15377},
-  doi          = {10.48550/ARXIV.2403.15377},
-  eprinttype    = {arXiv},
-  eprint       = {2403.15377},
-  timestamp    = {Thu, 30 May 2024 00:10:47 +0200},
-  biburl       = {https://dblp.org/rec/journals/corr/abs-2403-15377.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-  bibtex_show={true}
-}
+// 
