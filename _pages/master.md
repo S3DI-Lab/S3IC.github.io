@@ -1,11 +1,11 @@
 ---
 layout: page
 permalink: /master/
-title: master
+title: Master
 description: masters of the lab
 nav: false
 nav_order: 7
-display_categories: [master]
+display_categories: [Master]
 horizontal: false
 ---
 
