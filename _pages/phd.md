@@ -5,7 +5,7 @@ title: Ph.D Students
 description: Ph.D of the lab
 nav: false
 nav_order: 7
-display_categories: [phd]
+display_categories: [PhD]
 horizontal: false
 ---
 <!-- pages/projects.md -->

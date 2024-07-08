@@ -29,7 +29,7 @@ Published in IEEE Conference on Computer Communications (INFOCOM), Toronto, Cana
     Yijia Chang, Xi Huang, Longxiulin Deng, Ziyu Shao, Junshan Zhang
    Published in IEEE Global Communications Conference (GLOBECOM),Waikoloa, HI, USA,  9-13 December 2019
 
-3. EPSMD: An efficient privacy-preserving sensor data monitoring and online diagnosis system
+3.EPSMD: An efficient privacy-preserving sensor data monitoring and online diagnosis system
 	Xiangyu Wang, Jianfeng Ma, Yinbin Miao, Ruikang Yang, Yijia Chang
 Published in IEEE Conference on Computer Communications (INFOCOM), Atlanta, GA, USA, May 1-4 2017
 
