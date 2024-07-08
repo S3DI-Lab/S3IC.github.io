@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Fengheng Chu
-description: Master(2024)
+description: Master(Since 2024 fall)
 img: assets/img/seu.png
-importance: 1
+importance: 2
 category: Master
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Xinyu Ma
-description: Master(2024)
+description: Master(Since 2024 fall)
 img: assets/img/seu.png
 importance: 1
 category: Master
@@ -15,4 +15,3 @@ category: Master
 #### Education
 ---
   - 2024.09 - now, Southeast University, Jiangsu, China, M.S.
-  - 2019.09 - 2023.06, Qufu Normal University, Shandong, China, B.S.

@@ -1,11 +1,11 @@
 ---
 layout: page
-permalink: /phd/
-title: Ph.D Students
-description: Ph.D of the lab
+permalink: /alumni/
+title: Alumni
+description: 
 nav: false
 nav_order: 7
-display_categories: ['PhD from Seu',]
+display_categories: [Alumni]
 horizontal: false
 ---
 <!-- pages/projects.md -->

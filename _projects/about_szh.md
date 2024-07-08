@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zehan Sun
-description: Ph.D(2024)
+description: Ph.D(Since 2024 fall)
 img: assets/img/seu.png
 importance: 1
 category: PhD

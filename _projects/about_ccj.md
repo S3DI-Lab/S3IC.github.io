@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Chunjiang Che
-description: Master(2022)
+description: Master(Since 2022 fall)
 img: assets/img/seu.png
 importance: 1
-category: Master
+category: alumni
 ---
 
 #### Research Interests

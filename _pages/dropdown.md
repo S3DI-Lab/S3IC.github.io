@@ -13,4 +13,6 @@ children:
   - title: divider
   - title: Master
     permalink: /master/
+  - title: Alumni
+    permalink: /alumni/
 ---

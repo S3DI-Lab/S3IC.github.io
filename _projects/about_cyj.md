@@ -2,7 +2,7 @@
 layout: page
 title: Yijia Chang
 description: Ph.D(2022)
-# img: assets/img/seu.png
+img: assets/img/seu.png
 importance: 1
 category: PhD
 ---
@@ -21,15 +21,15 @@ category: PhD
 
 #### Publications
 ---
-1.Systematic topology design for large-scale networks: a unified framework
+[1] Systematic topology design for large-scale networks: a unified framework
     Yijia Chang, Xi Huang, Ziyu Shao, Yang Yang
 Published in IEEE Conference on Computer Communications (INFOCOM), Toronto, Canada, July 6-9 2020
 
-2.An efficient distributed deep learning framework for fog-based IoT systems
+[2]An efficient distributed deep learning framework for fog-based IoT systems
     Yijia Chang, Xi Huang, Longxiulin Deng, Ziyu Shao, Junshan Zhang
    Published in IEEE Global Communications Conference (GLOBECOM),Waikoloa, HI, USA,  9-13 December 2019
 
-3.EPSMD: An efficient privacy-preserving sensor data monitoring and online diagnosis system
+[3]EPSMD: An efficient privacy-preserving sensor data monitoring and online diagnosis system
 	Xiangyu Wang, Jianfeng Ma, Yinbin Miao, Ruikang Yang, Yijia Chang
 Published in IEEE Conference on Computer Communications (INFOCOM), Atlanta, GA, USA, May 1-4 2017
 
