@@ -31,5 +31,7 @@ category: 'PhD from HKUST'
 #### Honors and Awards
 ---
 First Prize of the 13th "Challenge Cup" China Student Entrepreneurship Program Competition
+
 Liaoning Outstanding Graduates
+
 National scholarship for Postgraduates
