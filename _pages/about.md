@@ -17,4 +17,4 @@ Our current research areas include:
 3) Secure multi-party computation;
 4) Blockchain scalability and privacy.
 
-   We are always looking for *strongly motivated* PhD and Master students, Undergraduate students, Post-docs, Research assistants, and Visiting interns to join our lab.
+We are always looking for **strongly motivated** PhD and Master students, Undergraduate students, Post-docs, Research assistants, and Visiting interns to join our lab. Interested applicants please email your CV, transcript, and any related publications at songzeli [at] seu [dot] edu [dot] cn, or songzeli8824 [at] outlook [dot] com.

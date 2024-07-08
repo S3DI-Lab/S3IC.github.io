@@ -4,7 +4,7 @@ title: Chunjiang Che
 description: Master(Since 2022 fall)
 img: assets/img/seu.png
 importance: 1
-category: alumni
+category: Alumni
 ---
 
 #### Research Interests
