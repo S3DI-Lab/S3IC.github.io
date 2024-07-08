@@ -1,13 +1,14 @@
 ---
 layout: page
 title: Yanbo Dai 
-description: Master(2022)
-img: assets/img/seu.png
+description: Ph.D(Since 2022 fall)
+img: assets/img/hkust.png
 importance: 1
-category: Master
+category: Alumni
 ---
 
 personal web: [https://ybdai7.github.io/](https://ybdai7.github.io/)
+
 #### Research Interests
 ---
 - Federated learning security
@@ -22,14 +23,14 @@ personal web: [https://ybdai7.github.io/](https://ybdai7.github.io/)
 #### Publications
 ** indicates equal contribution**
 
-[1] BackdoorIndicator: Leveraging OOD Data for Proactive Backdoor Detection in Federated Learning
+[1].BackdoorIndicator: Leveraging OOD Data for Proactive Backdoor Detection in Federated Learning
 Songze Li*, Yanbo Dai*
 To be appeared in Usenix Security 2024.
 
-[2]Chameleon: Adapting to Peer Images for Planting Durable Backdoors in Federated Learning
+[2].Chameleon: Adapting to Peer Images for Planting Durable Backdoors in Federated Learning
 Yanbo Dai, Songze Li
 ICML’23    
 
-[3]Deep Domain Adaptation for Predicting Intra-AbdominalPressure with Multichannel Attention Fusion Radar Chip
+[3].Deep Domain Adaptation for Predicting Intra-AbdominalPressure with Multichannel Attention Fusion Radar Chip
 Hao Tang*, Yanbo Dai*, Dongchu Zhao, Zhiwei Sun, Fuqiang Chen, Yiliang Zhu,Huaping Liang, Hailin Cao, and Lianyang Zhang
 Advanced Intelligent Systems.

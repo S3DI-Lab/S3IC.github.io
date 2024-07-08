@@ -3,7 +3,7 @@ layout: page
 title: Xinyu Ma
 description: Master(Since 2024 fall)
 img: assets/img/seu.png
-importance: 1
+importance: 2
 category: Master
 ---
 

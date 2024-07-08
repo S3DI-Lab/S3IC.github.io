@@ -13,8 +13,11 @@ The research lab for **S**ecure, **S**calable, and Re**S**ponsible **D**istribut
 Our current research areas include:
 
 1) Vulnerabilities and secure protocols for federated learning;
+
 2) Security, privacy, and explainability of big models;
+
 3) Secure multi-party computation;
+
 4) Blockchain scalability and privacy.
 
-We are always looking for **strongly motivated** PhD and Master students, Undergraduate students, Post-docs, Research assistants, and Visiting interns to join our lab. Interested applicants please email your CV, transcript, and any related publications at songzeli [at] seu [dot] edu [dot] cn, or songzeli8824 [at] outlook [dot] com.
+We are always looking for **strongly motivated** PhD and Master students, Undergraduate students, Post-docs, Research assistants, and Visiting interns to join our lab. Interested applicants please email your CV, transcript, and any related publications at **songzeli [at] seu [dot] edu [dot] cn**, or **songzeli8824 [at] outlook [dot] com**.

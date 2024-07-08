@@ -2,9 +2,9 @@
 layout: page
 title: Duanyi Yao
 description: Ph.D(Since 2021 fall)
-img: assets/img/seu.png
+img: assets/img/hkust.png
 importance: 1
-category: 'PhD from Seu'
+category: 'PhD from HKUST'
 ---
 
 #### Research Interests
@@ -13,15 +13,18 @@ category: 'PhD from Seu'
   - Privacy and security in Machine learning
 
 #### Education
+---
+- 2021.09 - Now Hong Kong University of Science and Technology, Hong Kong. PhD candidate
+- 2017.09 - 2021.06  University of Electronic Science and Technology of China, Chengdu, China. B.S.
 
-2017.09 - 2021.06  University of Electronic Science and Technology of China, Chengdu, China.  B.S.
+#### Publications
+---
+[1] Li, Songze, Duanyi Yao, and Jin Liu. [https://proceedings.mlr.press/v202/li23an/li23an.pdf]("Fedvs: Straggler-resilient and privacy-preserving vertical federated learning for split models.") International Conference on Machine Learning. PMLR, 2023.
 
-2021.09 - Now Hong Kong University of Science and Technology, Hong Kong. PhD candidate
+[2] Duanyi, Y. A. O., Songze Li, X. U. E. Ye, and Jin Liu. [https://openreview.net/pdf?id=m52uU0dVbH]("Constructing Adversarial Examples for Vertical Federated Learning: Optimal Client Corruption through Multi-Armed Bandit.") In The Twelfth International Conference on Learning Representations. 2023.
 
-Publications
+[3] Guo, Zhuoning, Duanyi Yao, Qiang Yang, and Hao Liu. [https://arxiv.org/pdf/2406.10616]("HiFGL: A Hierarchical Framework for Cross-silo Cross-device Federated Graph Learning.") arXiv preprint arXiv:2406.10616 (2024).(To be appeared in KDD2024)
 
-[1] Li, Songze, Duanyi Yao, and Jin Liu. "Fedvs: Straggler-resilient and privacy-preserving vertical federated learning for split models." International Conference on Machine Learning. PMLR, 2023.
-[2] Duanyi, Y. A. O., Songze Li, X. U. E. Ye, and Jin Liu. "Constructing Adversarial Examples for Vertical Federated Learning: Optimal Client Corruption through Multi-Armed Bandit." In The Twelfth International Conference on Learning Representations. 2023.
-[3] Guo, Zhuoning, Duanyi Yao, Qiang Yang, and Hao Liu. "HiFGL: A Hierarchical Framework for Cross-silo Cross-device Federated Graph Learning." arXiv preprint arXiv:2406.10616 (2024).(To be appeared in KDD2024)
-[4] Li, Haoran, Dadi Guo, Donghao Li, Wei Fan, Qi Hu, Xin Liu, Chunkit Chan, Duanyi Yao, and Yangqiu Song. "P-bench: A multi-level privacy evaluation benchmark for language models." arXiv preprint arXiv:2311.04044 (2023).(To be appeared in ACL2024)
-[5] Yao, Duanyi, Songze Li, Xueluan Gong, Sizai Hou, and Gaoning Pan. "Leveraging Label Information for Stealthy Data Stealing in Vertical Federated Learning." arXiv preprint arXiv:2404.19582 (2024). (Under review)
+[4] Li, Haoran, Dadi Guo, Donghao Li, Wei Fan, Qi Hu, Xin Liu, Chunkit Chan, Duanyi Yao, and Yangqiu Song. [https://arxiv.org/pdf/2311.04044]("P-bench: A multi-level privacy evaluation benchmark for language models.") arXiv preprint arXiv:2311.04044 (2023).(To be appeared in ACL2024)
+
+[5] Yao, Duanyi, Songze Li, Xueluan Gong, Sizai Hou, and Gaoning Pan. [https://arxiv.org/pdf/2404.19582]("Leveraging Label Information for Stealthy Data Stealing in Vertical Federated Learning.") arXiv preprint arXiv:2404.19582 (2024). (Under review)

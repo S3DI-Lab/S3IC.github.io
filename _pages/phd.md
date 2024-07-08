@@ -2,10 +2,10 @@
 layout: page
 permalink: /phd/
 title: Ph.D Students
-description: Ph.D of the lab
+description: Ph.D students of the lab
 nav: false
 nav_order: 7
-display_categories: ['PhD from Seu',]
+display_categories: ['PhD from SEU','phD from HKUST']
 horizontal: false
 ---
 <!-- pages/projects.md -->
