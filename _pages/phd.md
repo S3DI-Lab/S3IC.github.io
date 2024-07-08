@@ -5,7 +5,7 @@ title: Ph.D Students
 description: Ph.D students of the lab
 nav: false
 nav_order: 7
-display_categories: ['PhD from SEU','phD from HKUST']
+display_categories: ['PhD from SEU','PhD from HKUST']
 horizontal: false
 ---
 <!-- pages/projects.md -->

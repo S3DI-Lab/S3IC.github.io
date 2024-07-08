@@ -4,7 +4,7 @@ title: Sizai Hou
 description: Ph.D(Since 2021 fall)
 img: assets/img/hkust.png
 importance: 1
-category: 'phD from HKUST'
+category: 'PhD from HKUST'
 ---
 
 #### Research Interests
@@ -20,13 +20,13 @@ category: 'phD from HKUST'
 
 #### Publications
 ---
-[1].CNN models for readability of Chinese texts.
+[1].**CNN models for readability of Chinese texts.**
 Han Feng, Sizai Hou, Le-Yin Wei, Ding-Xuan Zhou
 
-[2].Secure federated clustering
+[2].**Secure federated clustering**
 Songze Li, Sizai Hou, Baturalp Buyukates, Salman Avestimehr
 
-[3].Leveraging Label Information for Stealthy Data Stealing in Vertical Federated Learning
+[3].**Leveraging Label Information for Stealthy Data Stealing in Vertical Federated Learning**
 Duanyi Yao, Songze Li, Xueluan Gong, Sizai Hou, Gaoning Pan
 
 #### Honors and Awards

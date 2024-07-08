@@ -2,11 +2,10 @@
 layout: page
 title: Chunjiang Che
 description: Master(Since 2022 fall)
-img: assets/img/seu.png
+img: assets/img/hkust.png
 importance: 1
 category: Alumni
 ---
-
 #### Research Interests
 ---
 - Federated Learning
@@ -19,7 +18,7 @@ category: Alumni
 
 #### Publications
 ---
-1.A Decentralized Federated Learning Framework via Committee Mechanism With Convergence Guarantee
+1.**A Decentralized Federated Learning Framework via Committee Mechanism With Convergence Guarantee**
 Chunjiang Che, Xiaoli Li, Chuan Chen, Xiaoyu He, Zibin Zheng
 IEEE Transactions on Parallel and Distributed Systems, Volume: 33, Issue: 12, 01 December 2022
 
