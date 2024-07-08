@@ -1,0 +1,39 @@
+---
+layout: page
+title: Yijia Chang
+description: Ph.D(2022)
+# img: assets/img/seu.png
+importance: 1
+category: PhD
+---
+
+#### Research Interests
+---
+- Threshold homomorphic encryption 
+- Secure multi-party computation
+- Intellectual protection for AI Models
+
+#### Education
+---
+-2022.09-now, Hong Kong University of Science and Technology(Guangzhou), Guangzhou, China, PhD.
+- 2018.09-2022.01, ShanghaiTech University, Shanghai, China, M.S.
+- 2014.09-2018.06, Xidian University, Shaanxi, China, B.S.
+
+#### Publications
+---
+1.Systematic topology design for large-scale networks: a unified framework
+    Yijia Chang, Xi Huang, Ziyu Shao, Yang Yang
+Published in IEEE Conference on Computer Communications (INFOCOM), Toronto, Canada, July 6-9 2020
+
+2.An efficient distributed deep learning framework for fog-based IoT systems
+    Yijia Chang, Xi Huang, Longxiulin Deng, Ziyu Shao, Junshan Zhang
+   Published in IEEE Global Communications Conference (GLOBECOM),Waikoloa, HI, USA,  9-13 December 2019
+
+3. EPSMD: An efficient privacy-preserving sensor data monitoring and online diagnosis system
+	Xiangyu Wang, Jianfeng Ma, Yinbin Miao, Ruikang Yang, Yijia Chang
+Published in IEEE Conference on Computer Communications (INFOCOM), Atlanta, GA, USA, May 1-4 2017
+
+#### Honors and Awards
+---
+2020 National scholarship, China
+2016 First prize in National College Student Information Security Contest, China

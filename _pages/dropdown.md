@@ -8,8 +8,8 @@ children:
   - title: Faculty
     permalink: /faculty/
   - title: divider
-  - title: ph.D
-    permalink: /phd/
+  - title: Ph.D
+    permalink: /PhD/
   - title: divider
   - title: Master
     permalink: /master/
