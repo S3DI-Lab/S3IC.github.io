@@ -2,7 +2,7 @@
 layout: page
 title: Chunjiang Che
 description: Master(Since 2022 fall)
-img: assets/img/hkust.png
+img: assets/img/ccj.jpg
 importance: 1
 category: Alumni
 ---

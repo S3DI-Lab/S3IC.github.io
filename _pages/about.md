@@ -10,13 +10,13 @@ social: true # includes social icons at the bottom of the page
 ---
 The research lab for **S**ecure, **S**calable, and Re**S**ponsible **D**istributed **I**ntelligence (S3DI), led by Prof. **Songze Li**, works on a wide range of research topics to improve security, scalability, and trustworthiness of distributed computing frameworks, focusing on the applications of machine learning, artificial intelligence, and blockchains.
 
-Our current research areas include:
+Our current research areas include: 
 
-1) Vulnerabilities and secure protocols for federated learning;
+1) Vulnerabilities and secure protocols for federated learning; 
 
-2) Security, privacy, and explainability of big models;
+2) Security, privacy, and safety of large language and multi-modal models; 
 
-3) Secure multi-party computation;
+3) Secure multi-party computation; 
 
 4) Blockchain scalability and privacy.
 
