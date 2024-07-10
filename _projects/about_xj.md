@@ -20,7 +20,7 @@ category: 'PhD from HKUST'
 
 #### Publications
 ---
-[1].Xie, J., Zhu, C., & Li, S. (2024). **FedMeS: Personalized Federated Continual Learning Leveraging Local Memory**. arXiv preprint arXiv:2404.12710.
+[1].Xie, J., Zhu, C., & Li, S. (2024). [**FedMeS: Personalized Federated Continual Learning Leveraging Local Memory**](https://arxiv.org/pdf/2404.12710). arXiv preprint arXiv:2404.12710.
 
 [2].Xie J, & Zhou P. (2022). **Burn-Through Point Modeling Using Error PDF Optimization Based Stochastic Configuration Network.** 19th IFAC Symposium on Control, Optimization and Automation in Mining, Mineral and Metal Processing
 

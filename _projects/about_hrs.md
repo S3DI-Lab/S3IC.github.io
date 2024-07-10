@@ -10,7 +10,7 @@ category: Master
 #### Research Interests
 ---
   - Federated Learning
-  - LLM watermark
+  - LLM Security
 
 #### Education
 ---

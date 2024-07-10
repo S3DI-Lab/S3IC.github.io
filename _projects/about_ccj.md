@@ -18,7 +18,7 @@ category: Alumni
 
 #### Publications
 ---
-1.**A Decentralized Federated Learning Framework via Committee Mechanism With Convergence Guarantee**
+1.[**A Decentralized Federated Learning Framework via Committee Mechanism With Convergence Guarantee**](https://arxiv.org/abs/2108.00365)
 Chunjiang Che, Xiaoli Li, Chuan Chen, Xiaoyu He, Zibin Zheng
 IEEE Transactions on Parallel and Distributed Systems, Volume: 33, Issue: 12, 01 December 2022
 

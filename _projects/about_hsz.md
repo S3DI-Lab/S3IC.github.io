@@ -23,10 +23,10 @@ category: 'PhD from HKUST'
 [1].**CNN models for readability of Chinese texts.**
 Han Feng, Sizai Hou, Le-Yin Wei, Ding-Xuan Zhou
 
-[2].**Secure federated clustering**
+[2].[**Secure federated clustering**](https://arxiv.org/abs/2205.15564)
 Songze Li, Sizai Hou, Baturalp Buyukates, Salman Avestimehr
 
-[3].**Leveraging Label Information for Stealthy Data Stealing in Vertical Federated Learning**
+[3].[**Leveraging Label Information for Stealthy Data Stealing in Vertical Federated Learning**](https://arxiv.org/abs/2404.19582)
 Duanyi Yao, Songze Li, Xueluan Gong, Sizai Hou, Gaoning Pan
 
 #### Honors and Awards
