@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /master/
-title: Master Students
+permalink: /visiting-intern/
+title: Visiting Intern
 nav: false
 nav_order: 7
 display_categories: [Intern]

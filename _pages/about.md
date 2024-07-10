@@ -8,7 +8,7 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-The research lab for **S**ecure, **S**calable, and Re**S**ponsible **D**istributed **I**ntelligence (S3DI), led by Prof. [<span style="color: blue;">**Songze Li**](https://songzli.github.io/), works on a wide range of research topics to improve security, scalability, and trustworthiness of distributed computing frameworks, focusing on the applications of machine learning, artificial intelligence, and blockchains.
+The research lab for **S**ecure, **S**calable, and Re**S**ponsible **D**istributed **I**ntelligence (S3DI), led by Prof. <span style="color: blue;">[**Songze Li**](https://songzli.github.io/)</span>, works on a wide range of research topics to improve security, scalability, and trustworthiness of distributed computing frameworks, focusing on the applications of machine learning, artificial intelligence, and blockchains.
 
 Our current research areas include: 
 
