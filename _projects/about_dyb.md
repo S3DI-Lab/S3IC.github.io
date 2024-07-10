@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yanbo Dai 
-description: Since 2022 fall
+description: 2022.09-2024.06
 img: assets/img/hkust.png
 importance: 1
 category: Intern
