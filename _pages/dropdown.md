@@ -14,6 +14,9 @@ children:
   - title: Master
     permalink: /master/
   - title: divider
+  - title: Visiting Intern
+    permalink: /visiting-intern/
+  - title: divider
   - title: Alumni
     permalink: /alumni/
 ---

@@ -4,7 +4,7 @@ title: Chunjiang Che
 description: Since 2022 fall
 img: assets/img/ccj.jpg
 importance: 1
-category: Alumni
+category: Intern
 ---
 #### Research Interests
 ---

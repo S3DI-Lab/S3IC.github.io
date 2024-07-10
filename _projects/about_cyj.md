@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yijia Chang
-description: Ph.D(Since 2022 fall)
+description: Since 2022 fall
 img: assets/img/cyj.jpg
 importance: 1
 category: 'PhD at HKUST'

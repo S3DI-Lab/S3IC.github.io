@@ -165,7 +165,9 @@ ul.task-list input[type="checkbox"] {
   }
 
   .card-title {
+    white-space: nowrap;
     color: var(--global-text-color);
+    font-size: 1.2rem;
   }
 
   .card-body {

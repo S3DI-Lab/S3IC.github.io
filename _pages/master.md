@@ -4,7 +4,7 @@ permalink: /master/
 title: Master Students
 nav: false
 nav_order: 7
-display_categories: [' ']
+display_categories: [Master]
 horizontal: false
 ---
 <!-- pages/projects.md -->

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Yanbo Dai 
-description: Ph.D(Since 2022 fall)
+description: Since 2022 fall
 img: assets/img/hkust.png
 importance: 1
-category: Alumni
+category: Intern
 ---
 personal web: [https://ybdai7.github.io/](https://ybdai7.github.io/)
 
