@@ -1,8 +1,7 @@
 ---
 layout: profiles
 permalink: /faculty/
-title: faculty
-description: Faculty of the lab 
+title: Faculty
 nav: false
 nav_order: 7
 

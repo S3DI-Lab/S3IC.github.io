@@ -3,8 +3,8 @@ layout: page
 title: Sizai Hou
 description: Ph.D(Since 2021 fall)
 img: assets/img/hkust.png
-importance: 1
-category: 'PhD from HKUST'
+importance: 2
+category: 'PhD at HKUST'
 ---
 
 #### Research Interests

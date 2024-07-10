@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mingxuan Zhang
-description: Master(Since 2024 fall)
+description: Since 2024 fall
 img: assets/img/seu.png
 importance: 1
 category: Master

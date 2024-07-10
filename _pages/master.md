@@ -2,10 +2,9 @@
 layout: page
 permalink: /master/
 title: Master Students
-description: masters of the lab
 nav: false
 nav_order: 7
-display_categories: [Master]
+display_categories: [' ']
 horizontal: false
 ---
 <!-- pages/projects.md -->
@@ -15,7 +14,7 @@ horizontal: false
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
   <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
+    <h2 class="category">{{}}</h2>
   </a>
   {% assign categorized_projects = site.projects | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}

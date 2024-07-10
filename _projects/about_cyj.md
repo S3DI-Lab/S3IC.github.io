@@ -4,7 +4,7 @@ title: Yijia Chang
 description: Ph.D(Since 2022 fall)
 img: assets/img/cyj.jpg
 importance: 1
-category: 'PhD from HKUST'
+category: 'PhD at HKUST'
 ---
 
 #### Research Interests

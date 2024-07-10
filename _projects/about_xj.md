@@ -4,7 +4,7 @@ title: Jin Xie
 description: Ph.D(Since 2022 fall)
 img: assets/img/hkust.png
 importance: 1
-category: 'PhD from HKUST'
+category: 'PhD at HKUST'
 ---
 
 #### Research Interests

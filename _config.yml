@@ -108,7 +108,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  Welcome to S3DI-Lab.
+  Welcome to S3DI Lab.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -128,7 +128,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: S3DI-Lab # blog_name will be displayed in your blog page
-blog_description: Welcome to S3DI-Lab.
+blog_description: Welcome to S3DI Lab.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

@@ -4,7 +4,7 @@ title: Zehan Sun
 description: Ph.D(Since 2024 fall)
 img: assets/img/seu.png
 importance: 1
-category: 'PhD from SEU'
+category: 'PhD at SEU'
 ---
 
 #### Research Interests
