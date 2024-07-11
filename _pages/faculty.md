@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /faculty/
-title: Faculty
+title: Songze Li
 nav: false
 nav_order: 7
 
