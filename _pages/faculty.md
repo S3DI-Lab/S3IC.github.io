@@ -13,4 +13,5 @@ profiles:
     content: about_lsz_f.md
     image_circular: true # crops the image to make it circular
     more_info: >
+    [personal web](https://songzli.github.io), [**CV**](https://songzli.github.io/CV_Songze_Li.pdf)
 ---
