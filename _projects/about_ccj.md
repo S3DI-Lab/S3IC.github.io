@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chunjiang Che
-description: 2022.09-2024.06
+description: 2022.09 - 2024.06
 img: assets/img/ccj.jpg
 importance: 1
 category: Intern

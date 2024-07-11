@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /visiting-intern/
-title: Visiting Intern
+title: Visiting interns
 nav: false
 nav_order: 7
 display_categories: [Intern]
