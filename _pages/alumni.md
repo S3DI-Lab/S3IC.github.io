@@ -22,8 +22,8 @@ horizontal: false
 
 ##### Visiting Students
 ---
-- **Jiacheng Liang**, 2021 spring, now pursing PhD at Penn State.
+- **Jiacheng Liang**, 2021 spring, now pursing PhD at **Penn State**.
 
 ##### Research Assistants
 ---
-- **Siyang Jiang**, 2021 fall, now pursing PhD at CUHK.
+- **Siyang Jiang**, 2021 fall, now pursing PhD at **CUHK**.

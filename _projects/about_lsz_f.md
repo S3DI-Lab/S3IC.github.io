@@ -7,6 +7,7 @@ importance: 1
 category: faculty
 ---
 ## Research Interests
+---
 - AI security and privacy
 - Secure multi-party computation
 - Blockchain security and scalability
@@ -15,17 +16,17 @@ category: faculty
 ---
 - Secretary - IEEE Information Theory Society Hongkong Chapter
 
-#### Guest editor
+##### Guest editor
 - Journal of Surveillance, Security and Safety, special issue on AI Security and Privacy
 - Entropy, special issue on Information Theory for Distributed Systems
 
-#### Area chair
+##### Area chair
 - MLSys 2023 Workshop on Resource-Constrained Learning in Wireless Networks **(MLSys-RCLWN-23)**
 
-#### Track chair
+##### Track chair
 - The 8th International Conference on Computer and Communication Systems **(ICCCS-23)**
 
-#### TPC member
+##### TPC member
 - IJCAI 2024 International Workshop on Federated Learning in the Age of Foundation Models **(FL@FM-IJCAI 24)**
 - IEEE International Conference on Distributed Computing Systems **(24)**
 - ICLR 2024 Workshop on Privacy Regulation and Protection in Machine Learning **(PRIVATE ML@ICLR 2024)**
@@ -44,7 +45,7 @@ category: faculty
 - ICML International Workshop on Federated Learning for User Privacy and Data Confidentiality **(FL-ICML-21)**
 - MobiCom Technologies for the Wireless Edge Workshop **(EdgeTech-MobiCom-18)**
 
-#### Journal reviewer (selected)
+##### Journal reviewer (selected)
 - IEEE Transactions on Information Theory
 - IEEE Journal on Selected Areas in Information Theory
 - IEEE Transactions on Information Forensics and Security
@@ -56,12 +57,12 @@ category: faculty
 - IEEE Transactions on Knowledge and Data Engineering
 - IEEE Communication Letters
 
-#### Conference reviewer (selected)
+##### Conference reviewer (selected)
 ISIT, ITW, ICC, NeurIPS, ICML, AAAI, ICASSP, SPAWC, WUWNET.
 
 ## Publications
 ---
-#### Journal Papers and Preprints
+##### Journal Papers and Preprints
 [1].H. Hu, Y. Wu, Y. Shi, **S. Li**, C. Jiang, and W. Zhang, "**Communication-Efficient Coded Computing for Distributed Multi-Task Learning**,", *IEEE Transactions on Communications, Apr. 2023*.
 
 [2].T. Jahani-Nezhad, M. A. Maddah-Ali, **S. Li**, and G. Caire, "**Swiftagg+: Achieving asymptotically optimal communication loads in secure aggregation for federated learning**," *IEEE Journal on Selected Areas in Communications, vol. 41, no. 4, pp. 977–989, Mar. 2023*.
@@ -70,23 +71,23 @@ ISIT, ITW, ICC, NeurIPS, ICML, AAAI, ICASSP, SPAWC, WUWNET.
 
 [4].J. Zhu, **S. Li**, "**A Systematic Approach towards Efficient Private Matrix Multiplication**," *IEEE Journal on Selected Areas in Information Theory, vol. 3, no. 2, pp. 257-274, June 2022*.
 
-[5]J. Zhu, Q. Yan, X. Tang, and **S. Li**, "**Symmetric Private Polynomial Computation From Lagrange Encoding**," *IEEE Transactions on Information Theory, vol. 68, no. 4, pp. 2704-2718, Jan. 2022*.
+[5].J. Zhu, Q. Yan, X. Tang, and **S. Li**, "**Symmetric Private Polynomial Computation From Lagrange Encoding**," *IEEE Transactions on Information Theory, vol. 68, no. 4, pp. 2704-2718, Jan. 2022*.
 
-[6]A. R. Elkordy, **S. Li**, M. Maddah-Ali, and A. S. Avestimehr, "**Compressed Coded Distributed Computing**," *IEEE Transactions on Communications, vol. 69, no. 5, pp. 2773-2783, May 2021*.
+[6].A. R. Elkordy, **S. Li**, M. Maddah-Ali, and A. S. Avestimehr, "**Compressed Coded Distributed Computing**," *IEEE Transactions on Communications, vol. 69, no. 5, pp. 2773-2783, May 2021*.
 
-[7]**S. Li**, D. Tse, "**TaiJi: Longest Chain Availability with BFT Fast Confirmation**," *e-print arXiv:2011.11097, Nov. 2020*.
+[7].**S. Li**, D. Tse, "**TaiJi: Longest Chain Availability with BFT Fast Confirmation**," *e-print arXiv:2011.11097, Nov. 2020*.
 
-[8]**S. Li**, M. Yu, C. Yang, A. S. Avestimehr, S. Kanna, and P. Viswanath, "**PolyShard: Coded Sharding Achieves Linearly Scaling Efficiency and Security Simultaneously**," *IEEE Transactions on Information Forensics and Security, vol. 16, pp. 249-261, July 2020*.
+[8].**S. Li**, M. Yu, C. Yang, A. S. Avestimehr, S. Kanna, and P. Viswanath, "**PolyShard: Coded Sharding Achieves Linearly Scaling Efficiency and Security Simultaneously**," *IEEE Transactions on Information Forensics and Security, vol. 16, pp. 249-261, July 2020*.
 
-[9]**S. Li**, M. Mousavi Kalan, Q. Yu, M. Soltanolkotabi, and A. S. Avestimehr, "**Polynomially Coded Regression: Optimal Straggler Mitigation via Data Encoding**," *e-print arXiv:1805.09934*.
+[9].**S. Li**, M. Mousavi Kalan, Q. Yu, M. Soltanolkotabi, and A. S. Avestimehr, "**Polynomially Coded Regression: Optimal Straggler Mitigation via Data Encoding**," *e-print arXiv:1805.09934*.
 
 [10].**S. Li**, M. Maddah-Ali, and A. S. Avestimehr, "**Coding for Distributed Fog Computing**," *IEEE Communications Magazine, vol. 55, no. 4, pp. 34-40, Apr. 2017*.
 
-[11]**S. Li**, Q. Yu, M. Maddah-Ali, and A. S. Avestimehr, "**A Scalable Framework for Wireless Distributed Computing**," *IEEE/ACM Transactions on Networking, vol. 25, no. 5, pp. 2643-2654, Oct. 2017*.
+[11].**S. Li**, Q. Yu, M. Maddah-Ali, and A. S. Avestimehr, "**A Scalable Framework for Wireless Distributed Computing**," *IEEE/ACM Transactions on Networking, vol. 25, no. 5, pp. 2643-2654, Oct. 2017*.
 
-[12]**S. Li**, Q. Yu, M. Maddah-Ali, and A. S. Avestimehr, "**A Fundamental Tradeoff between Computation and Communication in Distributed Computing**," *IEEE Transactions on Information Theory, vol. 64, no. 1, pp. 109-128, Jan. 2018*.
+[12].**S. Li**, Q. Yu, M. Maddah-Ali, and A. S. Avestimehr, "**A Fundamental Tradeoff between Computation and Communication in Distributed Computing**," *IEEE Transactions on Information Theory, vol. 64, no. 1, pp. 109-128, Jan. 2018*.
 
-[13]**S. Li**, D. Kao, and A. S. Avestimehr, "**Rover-to-Orbiter Communication in Mars: Taking Advantage of the Varying Topology**," *IEEE Transactions on Communications, Vol. 64, No. 2, Feb. 2016*.
+[13].**S. Li**, D. Kao, and A. S. Avestimehr, "**Rover-to-Orbiter Communication in Mars: Taking Advantage of the Varying Topology**," *IEEE Transactions on Communications, Vol. 64, No. 2, Feb. 2016*.
 
 #### Conference Papers
 [1].**S. Li**, D. Yao, and J. Liu, "**FedVS: Straggler-Resilient and Privacy-Preserving Vertical Federated Learning for Split Models**," *ICML, July 2023*.
