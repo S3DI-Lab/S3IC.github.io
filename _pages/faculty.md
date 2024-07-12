@@ -1,5 +1,5 @@
 ---
-layout: profiles
+layout: page
 permalink: /faculty/
 title: Faculty
 nav: false

@@ -1,5 +1,5 @@
 # -----------------------------------------------------------------------------
-# Site settings for S3DI-Lab update2024.7.10 1022
+# Site settings for S3DI-Lab update2024.7.12 1239
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
@@ -108,7 +108,6 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  Welcome to S3DI Lab.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
