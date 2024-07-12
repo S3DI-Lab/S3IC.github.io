@@ -4,7 +4,7 @@ title: Songze Li
 description: 
 img: assets/img/lsz_f.png
 importance: 1
-category: 'faculty'
+category: faculty
 ---
 ## Research Interests
 - AI security and privacy
