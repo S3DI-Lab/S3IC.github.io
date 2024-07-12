@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Songze Li
-description: 
+description: Professor
 img: assets/img/lsz_f.png
 importance: 1
 category: faculty
@@ -89,7 +89,7 @@ ISIT, ITW, ICC, NeurIPS, ICML, AAAI, ICASSP, SPAWC, WUWNET.
 
 [13].**S. Li**, D. Kao, and A. S. Avestimehr, "**Rover-to-Orbiter Communication in Mars: Taking Advantage of the Varying Topology**," *IEEE Transactions on Communications, Vol. 64, No. 2, Feb. 2016*.
 
-#### Conference Papers
+##### Conference Papers
 [1].**S. Li**, D. Yao, and J. Liu, "**FedVS: Straggler-Resilient and Privacy-Preserving Vertical Federated Learning for Split Models**," *ICML, July 2023*.
 
 [2].Y. Dai and **S. Li**, "**Chameleon: Adapting to Peer Images for Planting Durable Backdoors in Federated Learning**," *ICML, July 2023*.
