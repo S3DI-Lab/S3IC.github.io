@@ -1,3 +1,11 @@
+---
+layout: page
+title: Songze Li
+description: 
+img: assets/img/lsz_f.png
+importance: 1
+category: 'faculty'
+---
 ## Research Interests
 - AI security and privacy
 - Secure multi-party computation
