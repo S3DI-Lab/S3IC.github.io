@@ -10,6 +10,8 @@ github_username: songzLi
 scholar_userid: vcGuNDYAAAAJ
 ---
 
+Professor, [School for Cyber Science and Engineering](https://cyber.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/)
+
 Email: songzeli [at] seu [dot] edu [dot] cn, songzeli8824 [at] outlook [dot] com
 
 <a href="https://scholar.google.com/citations?user=zX8LAXkAAAAJ&hl=en&authuser=1" style="text-decoration:none;
@@ -24,7 +26,7 @@ Email: songzeli [at] seu [dot] edu [dot] cn, songzeli8824 [at] outlook [dot] com
   <img src="https://th.bing.com/th/id/OIP.NGIDdVP6vw9ue_D-mrEVFQHaHa?rs=1&pid=ImgDetMain" width="28">
 </a>
 
-Dr. Songze Li is a professor of the [**Institute for Cyber Science and Engineering**](https://cyber.seu.edu.cn/), [**Southeast University**](https://www.seu.edu.cn/). Before joining SEU in 2024,Dr. Li was an assistant professor at the Internet of Things thrust in [**HKUST (GZ)**](https://www.hkust-gz.edu.cn/), and an affiliate assistant professor at CSE department in HKUST (CWB). before that,he worked as a researcher at [**Stanford University**](https://www.stanford.edu/). Prior to that, Dr. Li spent a year as a research scientist with Applied Protocol Research. Dr. Li received his Ph.D. degree from [**University of Southern California**](https://www.usc.edu/) in 2018, and his B.Sc. degree from [**New York University**](https://www.nyu.edu/) in 2011, both in electrical engineering.
+Before joining SEU in 2024,Dr. Li was an assistant professor at the Internet of Things thrust in [**HKUST (GZ)**](https://www.hkust-gz.edu.cn/), and an affiliate assistant professor at CSE department in HKUST (CWB). before that,he worked as a researcher at [**Stanford University**](https://www.stanford.edu/). Prior to that, Dr. Li spent a year as a research scientist with Applied Protocol Research. Dr. Li received his Ph.D. degree from [**University of Southern California**](https://www.usc.edu/) in 2018, and his B.Sc. degree from [**New York University**](https://www.nyu.edu/) in 2011, both in electrical engineering.
 
 Dr. Li’s current research interest is on developing secure, scalable, and accurate distributed computing and learning solutions, mainly focused on the areas of federated learning and blockchains. Dr. Li was Qualcomm Innovation Fellowship finalist in 2017. He received the Best Paper Award at NeurIPS-20 Workshop on Scalability, Privacy, and Security in Federated Learning.Also,many of Dr. Li's papers have been published by top security or machine learning conferences like USENIX Security, ICLR, ICML and NeurIPS.
 
