@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Songze Li
-description: Professor of the Cyber Science and Engineering, Southeast University. 
+description: Professor 
 img: assets/img/lsz_f.png
 importance: 1
 category: faculty
