@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Songze Li
-description: Professor, Southeast University
+description: Professor
+Principal Investigator
 img: assets/img/lsz_f.png
 importance: 1
 category: faculty
