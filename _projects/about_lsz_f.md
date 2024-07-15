@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Songze Li
-description: "Professor
+description: "Professor\n
 Principal Investigator"
 img: assets/img/lsz_f.png
 importance: 1
@@ -29,15 +29,13 @@ Email: songzeli [at] seu [dot] edu [dot] cn, songzeli8824 [at] outlook [dot] com
 Dr. Songze Li is a professor at School of Cyber Science and Engineering, Southeast University. He was an assistant professor at the [Internet of Things Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/internet-of-things/) in HKUST (GZ), and an affiliate assistant professor at [CSE Department](https://cse.hkust.edu.hk/) in HKUST (CWB). Before that, he worked as a researcher at Stanford University. Dr. Li received his Ph.D. degree from University of Southern California in 2018, and his B.Sc. degree from New York University in 2011. Dr. Li’s current research interest is on developing secure, scalable, and responsible distributed computing and learning solutions, mainly focused on machine learning and blockchain. His research papers have been published at top security and machine learning conferences and journals inlcuding USENIX Security, NeurIPS, ICML, ICLR, TIFS, and TIT. Dr. Li received the Best Paper Award at NeurIPS-20 Workshop on Scalability, Privacy, and Security in Federated Learning. He was Qualcomm Innovation Fellowship finalist in 2017.
 
 ---
-#### Research Interests 
----
+## Research Interests 
 - Federated learning security and privacy
 - Security, privacy, and safety of large language and multi-modal models
 - Secure multi-party computation
 - Blockchain security and scalability
 
-#### Academic Services
----
+## Academic Services
 - Secretary - IEEE Information Theory Society Hongkong Chapter
 
 ##### Guest editor
@@ -84,8 +82,7 @@ Dr. Songze Li is a professor at School of Cyber Science and Engineering, Southea
 ##### Conference reviewer (selected)
 ISIT, ITW, ICC, NeurIPS, ICML, AAAI, ICASSP, SPAWC, WUWNET.
 
-#### Publications
----
+## Publications
 ##### Journal Papers and Preprints
 [1].H. Hu, Y. Wu, Y. Shi, **S. Li**, C. Jiang, and W. Zhang, "**Communication-Efficient Coded Computing for Distributed Multi-Task Learning**,", *IEEE Transactions on Communications, Apr. 2023*.
 
@@ -113,6 +110,7 @@ ISIT, ITW, ICC, NeurIPS, ICML, AAAI, ICASSP, SPAWC, WUWNET.
 
 [13].**S. Li**, D. Kao, and A. S. Avestimehr, "**Rover-to-Orbiter Communication in Mars: Taking Advantage of the Varying Topology**," *IEEE Transactions on Communications, Vol. 64, No. 2, Feb. 2016*.
 
+---
 ##### Conference Papers
 [1].**S. Li**, D. Yao, and J. Liu, "**FedVS: Straggler-Resilient and Privacy-Preserving Vertical Federated Learning for Split Models**," *ICML, July 2023*.
 
