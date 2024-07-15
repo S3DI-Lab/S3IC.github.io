@@ -10,7 +10,9 @@ scholar_userid: vcGuNDYAAAAJ
 ---
 
 
-Professor, [School of Cyber Science and Engineering](https://cyber.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/)
+Professor, [School of Cyber Science and Engineering](https://cyber.seu.edu.cn/), Southeast University
+
+Adjunct Assistant Professor, IoT Thrust, Information Hub, The Hong Kong University of Science and Technology (Guangzhou)
 
 Email: songzeli [at] seu [dot] edu [dot] cn, songzeli8824 [at] outlook [dot] com
 
@@ -26,17 +28,18 @@ Email: songzeli [at] seu [dot] edu [dot] cn, songzeli8824 [at] outlook [dot] com
   <img src="https://th.bing.com/th/id/OIP.NGIDdVP6vw9ue_D-mrEVFQHaHa?rs=1&pid=ImgDetMain" width="28">
 </a>
 
-Before joining SEU in 2024,Dr. Li was an assistant professor at the Internet of Things thrust in [**HKUST (GZ)**](https://www.hkust-gz.edu.cn/), and an affiliate assistant professor at CSE department in HKUST (CWB). before that,he worked as a researcher at [**Stanford University**](https://www.stanford.edu/). Prior to that, Dr. Li spent a year as a research scientist with Applied Protocol Research. Dr. Li received his Ph.D. degree from [**University of Southern California**](https://www.usc.edu/) in 2018, and his B.Sc. degree from [**New York University**](https://www.nyu.edu/) in 2011, both in electrical engineering.
+Dr. Songze Li is a professor at School of Cyber Science and Engineering, Southeast University. Dr. Li was an assistant professor at the Internet of Things thrust in [**HKUST (GZ)**](https://www.hkust-gz.edu.cn/), and an affiliate assistant professor at CSE department in HKUST (CWB). Before that, he worked as a researcher at Stanford University. Dr. Li received his Ph.D. degree from [**University of Southern California**](https://www.usc.edu/) in 2018, and his B.Sc. degree from [**New York University**](https://www.nyu.edu/) in 2011, both in electrical engineering.
 
 Dr. Li’s current research interest is on developing secure, scalable, and accurate distributed computing and learning solutions, mainly focused on the areas of federated learning and blockchains. Dr. Li was Qualcomm Innovation Fellowship finalist in 2017. He received the Best Paper Award at NeurIPS-20 Workshop on Scalability, Privacy, and Security in Federated Learning.Also,many of Dr. Li's papers have been published by top security or machine learning conferences like USENIX Security, ICLR, ICML and NeurIPS.
 
 ### Research Interests
 ---
-- AI security and privacy
+- Federated learning security and privacy
+- Security, privacy, and safety of large language and multi-modal models
 - Secure multi-party computation
 - Blockchain security and scalability
 
-### Academic services
+### Academic Services
 ---
 - Secretary - IEEE Information Theory Society Hongkong Chapter
 
