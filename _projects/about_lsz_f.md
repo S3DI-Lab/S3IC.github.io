@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Songze Li
-description: Professor, Principal Investigator
+description: Professor \n Principal Investigator
 img: assets/img/lsz_f.png
 importance: 1
 category: faculty
@@ -9,7 +9,8 @@ github_username: songzLi
 scholar_userid: vcGuNDYAAAAJ
 ---
 
-Professor, [School for Cyber Science and Engineering](https://cyber.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/)
+
+Professor, [School of Cyber Science and Engineering](https://cyber.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/)
 
 Email: songzeli [at] seu [dot] edu [dot] cn, songzeli8824 [at] outlook [dot] com
 
