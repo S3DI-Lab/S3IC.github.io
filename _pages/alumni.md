@@ -10,15 +10,15 @@ horizontal: false
 ---
 ##### Post-doc Researchers
 ---
-- Dr. **Jinbao Zhu**, 2021-2023, now assistant professor at **Southwest Jiaotong University**.
+- Dr. **Jinbao Zhu**, 2021.8-2023.8, now assistant professor at **Southwest Jiaotong University**.
 
 ##### Master Students
 ---
-- **Jin Liu**, 2022-2024.
-- **Mingzhe Liu**, 2022-2024.
-- **Junru Lin**, 2022-2024.
-- **Mengqi Chen**, 2022-2024.
-- **Jiaxiang Tang**, 2021-2023, now pursing PhD at **University of Minnesota Twin Cities**.
+- **Jin Liu**, 2022.9-2024.6.
+- **Mingzhe Liu**, 2022.9-2024.6.
+- **Junru Lin**, 2022.9-2024.6.
+- **Mengqi Chen**, 2022.9-2024.6.
+- **Jiaxiang Tang**, 2021.9-2023.6, now pursing PhD at **University of Minnesota Twin Cities**.
 
 ##### Visiting Students
 ---
