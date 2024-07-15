@@ -35,6 +35,7 @@ Dr. Songze Li is a professor at School of Cyber Science and Engineering, Southea
 - Secure multi-party computation
 - Blockchain security and scalability
 
+---
 ### Academic Services
 - Secretary - IEEE Information Theory Society Hongkong Chapter
 
@@ -82,6 +83,7 @@ Dr. Songze Li is a professor at School of Cyber Science and Engineering, Southea
 ##### Conference reviewer (selected)
 ISIT, ITW, ICC, NeurIPS, ICML, AAAI, ICASSP, SPAWC, WUWNET.
 
+---
 ### Publications
 ##### Journal Papers and Preprints
 [1].H. Hu, Y. Wu, Y. Shi, **S. Li**, C. Jiang, and W. Zhang, "**Communication-Efficient Coded Computing for Distributed Multi-Task Learning**,", *IEEE Transactions on Communications, Apr. 2023*.
@@ -110,7 +112,6 @@ ISIT, ITW, ICC, NeurIPS, ICML, AAAI, ICASSP, SPAWC, WUWNET.
 
 [13].**S. Li**, D. Kao, and A. S. Avestimehr, "**Rover-to-Orbiter Communication in Mars: Taking Advantage of the Varying Topology**," *IEEE Transactions on Communications, Vol. 64, No. 2, Feb. 2016*.
 
----
 ##### Conference Papers
 [1].**S. Li**, D. Yao, and J. Liu, "**FedVS: Straggler-Resilient and Privacy-Preserving Vertical Federated Learning for Split Models**," *ICML, July 2023*.
 
