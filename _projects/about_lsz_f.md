@@ -81,7 +81,7 @@ Dr. Songze Li is a professor at School of Cyber Science and Engineering, Southea
 - IEEE Communication Letters
 
 ##### Conference reviewer (selected)
-ISIT, ITW, ICC, NeurIPS, ICML, AAAI, ICASSP, SPAWC, WUWNET.
+NeurIPS, ICML, ICLR, AAAI, ISIT, ICASSP.
 
 ---
 ### Publications
