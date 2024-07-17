@@ -85,6 +85,9 @@ NeurIPS, ICML, ICLR, AAAI, ISIT, ICASSP.
 
 ---
 ### Publications
+
+See the complete list at my [Google Scholar page](https://scholar.google.com/citations?user=vcGuNDYAAAAJ&hl=en).
+
 ##### Journal Papers and Preprints
 [1].H. Hu, Y. Wu, Y. Shi, **S. Li**, C. Jiang, and W. Zhang, "**Communication-Efficient Coded Computing for Distributed Multi-Task Learning**,", *IEEE Transactions on Communications, Apr. 2023*.
 
