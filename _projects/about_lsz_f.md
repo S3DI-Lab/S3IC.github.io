@@ -64,7 +64,7 @@ Dr. Songze Li is a professor at School of Cyber Science and Engineering, Southea
 - IEEE Journal on Selected Areas in Communications, Special Issue on Communication-Efficient Distributed Learning over Networks **(JSAC-CEDL-22)**
 - IJCAI International Workshop on Trustworthy Federated Learning **(FL-IJCAI-22)**
 - AAAI International Workshop on Trustable, Verifiable and Auditable Federated Learning **(FL-AAAI-22)**
-- AAAI Conference on Artificial Intelligence **(22, 24)**
+- AAAI Conference on Artificial Intelligence **(22, 24, 25)**
 - ICML International Workshop on Federated Learning for User Privacy and Data Confidentiality **(FL-ICML-21)**
 - MobiCom Technologies for the Wireless Edge Workshop **(EdgeTech-MobiCom-18)**
 
