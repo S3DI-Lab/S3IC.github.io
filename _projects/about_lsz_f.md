@@ -12,6 +12,8 @@ scholar_userid: vcGuNDYAAAAJ
 
 Professor, [School of Cyber Science and Engineering](https://cyber.seu.edu.cn/), Southeast University<br>
 Adjunct Assistant Professor, IoT Thrust, Information Hub, The Hong Kong University of Science and Technology (Guangzhou)<br>
+Executive Director, Engineering Research Center of Blockchain Application, Supervision and Management (Southeast University),
+Ministry of Education<br>
 Email: songzeli [at] seu [dot] edu [dot] cn, songzeli8824 [at] outlook [dot] com<br>
 <a href="https://scholar.google.com/citations?user=zX8LAXkAAAAJ&hl=en&authuser=1" style="text-decoration:none;
     color:inherit;
