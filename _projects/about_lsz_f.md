@@ -52,6 +52,7 @@ Dr. Songze Li is a professor at School of Cyber Science and Engineering, Southea
 - The 8th International Conference on Computer and Communication Systems **(ICCCS-23)**
 
 ##### TPC member
+- NeurIPS 2024 International Workshop on Federated Foundation Models **(FL@FM-NeurIPS 24)**
 - IJCAI 2024 International Workshop on Federated Learning in the Age of Foundation Models **(FL@FM-IJCAI 24)**
 - IEEE International Conference on Distributed Computing Systems **(24)**
 - ICLR 2024 Workshop on Privacy Regulation and Protection in Machine Learning **(PRIVATE ML@ICLR 2024)**
