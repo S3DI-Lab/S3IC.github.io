@@ -6,6 +6,8 @@ img: assets/img/seu.png
 importance: 1
 category: 'PhD at SEU'
 ---
+Personal blog: [https://chenqing-zhu.github.io](https://chenqing-zhu.github.io)
+How to reach me: chenqingzhu@seu.edu.cn
 
 #### Research Interests
 ---
