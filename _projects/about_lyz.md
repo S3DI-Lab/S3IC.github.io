@@ -2,9 +2,9 @@
 layout: page
 title: Yuzhen Long
 description: Since 2022 fall
-img: 
+img: assets/img/lyz.jpg
 importance: 1
-category: 
+category: Undergraduate
 ---
 
 #### Research Interests
