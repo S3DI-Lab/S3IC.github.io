@@ -2,7 +2,7 @@
 layout: page
 title: Zehan Sun
 description: Since 2024 fall
-img: assets/img/seu.png
+img: assets/img/szh.png
 importance: 1
 category: 'PhD at SEU'
 ---
