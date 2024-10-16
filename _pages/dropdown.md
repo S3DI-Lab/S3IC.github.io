@@ -15,10 +15,10 @@ children:
     permalink: /master/
   - title: divider
   - title: Visitors/Interns
-    permalink: /undergraduate/
+    permalink: /visiting-intern/
   - title: divider
   - title: Undergraduate
-    permalink: /visiting-intern/
+    permalink: /undergraduate/
   - title: divider
   - title: Alumni
     permalink: /alumni/
