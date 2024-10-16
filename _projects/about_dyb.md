@@ -2,7 +2,7 @@
 layout: page
 title: Yanbo Dai 
 description: Since 2024.06
-img: assets/img/dyb.png
+img: assets/img/dyb.jpg
 importance: 1
 category: Intern
 ---

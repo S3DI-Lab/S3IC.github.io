@@ -2,7 +2,7 @@
 layout: page
 title: Jin Xie
 description: Since 2022 fall
-img: assets/img/xj.png
+img: assets/img/xj.jpg
 importance: 1
 category: 'PhD at HKUST'
 ---

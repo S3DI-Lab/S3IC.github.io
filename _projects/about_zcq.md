@@ -2,7 +2,7 @@
 layout: page
 title: Chenqing Zhu
 description: Since 2024 fall
-img: assets/img/seu.png
+img: assets/img/zcq.jpg
 importance: 1
 category: 'PhD at SEU'
 ---

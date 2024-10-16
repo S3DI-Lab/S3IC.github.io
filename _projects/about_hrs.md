@@ -2,7 +2,7 @@
 layout: page
 title: Ruishi He
 description: Since 2024 fall
-img: assets/img/seu.png
+img: assets/img/hrs.jpg
 importance: 1
 category: Master
 ---
