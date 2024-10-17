@@ -2,7 +2,7 @@
 layout: page
 title: Duanyi Yao
 description: Since 2021 fall
-img: assets/img/hkust.png
+img: assets/img/ydy.jpg
 importance: 2
 category: 'PhD at HKUST'
 ---

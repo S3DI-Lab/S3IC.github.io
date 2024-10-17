@@ -2,7 +2,7 @@
 layout: page
 title: Sizai Hou
 description: Since 2021 fall
-img: assets/img/hkust.png
+img: assets/img/hsz.jpg
 importance: 2
 category: 'PhD at HKUST'
 ---
