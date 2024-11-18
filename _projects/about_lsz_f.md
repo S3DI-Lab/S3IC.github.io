@@ -33,14 +33,17 @@ Dr. Songze Li is a professor at School of Cyber Science and Engineering, Southea
 ##### Guest editor
 - Journal of Surveillance, Security and Safety, special issue on AI Security and Privacy
 - Entropy, special issue on Information Theory for Distributed Systems
+- Entropy, special issue on Information-Theoretic Approaches for Machine Learning and AI
 
 ##### Area chair
 - MLSys 2023 Workshop on Resource-Constrained Learning in Wireless Networks **(MLSys-RCLWN-23)**
+- NeurIPS 2024 Datasets and Benchmarks track
 
 ##### Track chair
 - The 8th International Conference on Computer and Communication Systems **(ICCCS-23)**
 
 ##### TPC member
+- ACM AsiaCCS 2025 International Workshop on Secure and Efficient Federated Learning **(FL-AsiaCCS 25)**
 - NeurIPS 2024 International Workshop on Federated Foundation Models **(FL@FM-NeurIPS 24)**
 - IJCAI 2024 International Workshop on Federated Learning in the Age of Foundation Models **(FL@FM-IJCAI 24)**
 - IEEE International Conference on Distributed Computing Systems **(24)**
