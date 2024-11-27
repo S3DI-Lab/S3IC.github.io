@@ -44,21 +44,20 @@ His works has been published in flagship conferences and journals such as ICML, 
 ### Academic Services
 
 ##### Editor Board
-Young Editorial Board, Cybersecurity (CCF-C Journal)
+- Young Editorial Board, Cybersecurity (CCF-C Journal)
 
 ##### TPC chair
-IEEE ICWS-Internet of Intelligent Service Systems (IISS) Workshop (CCF-B Conference)
+- IEEE ICWS-Internet of Intelligent Service Systems (IISS) Workshop (CCF-B Conference)
 
 ##### TPC member
-AAAI 2024 (CCF-A Conference)
-
-IEEE iThings-International Workshop on Future Mobile Computing and Networking for Internet of Things (FMobile) (CCF-C Conference)
+- AAAI 2024 (CCF-A Conference)
+- IEEE iThings-International Workshop on Future Mobile Computing and Networking for Internet of Things (FMobile) (CCF-C Conference)
 
 ##### Journal reviewer (selected)
-Nature Communications, PATTERNS, IEEE JSAC, IEEE TIFS, IEEE TKDE, IEEE TMC, IEEE TSP
+- Nature Communications, PATTERNS, IEEE JSAC, IEEE TIFS, IEEE TKDE, IEEE TMC, IEEE TSP
 
 ##### Conference reviewer (selected)
-NeurIPS, ICML, ICLR, KDD, WWW, AAAI
+- NeurIPS, ICML, ICLR, KDD, WWW, AAAI
 
 ---
 
