@@ -2,22 +2,21 @@
 layout: page
 title: Kang Wei
 description: Associate Professor
-img: assets/img/KangWei.jpg
+img: assets/img/wk_f.jpg
 importance: 2
 category: faculty
 ---
 
-**xxx---Associate Professor---xxx**, [School of Cyber Science and Engineering](https://cyber.seu.edu.cn/), Southeast University<br>
-
-
-<br>
+Associate Professor, [School of Cyber Science and Engineering](https://cyber.seu.edu.cn/), Southeast University<br>
 Email: **kangwei** [at] polyu [dot] edu [dot] hk<br>
 
 ---
 
-Dr. Kang Wei is an **Associate Professor** at Southeast University. He was previously a postdoctoral fellow at The Hong Kong Polytechnic University, supervised by Prof. Song Guo and Prof. Bin Xiao, both IEEE Fellows. He received his Ph.D. from Nanjing University of Science and Technology under Prof. Jun Li and his B.S. in Information Engineering from Xidian University in 2014. From June to December 2021, he was a research intern at Tencent’s Rhinoceros Bird Project under Dr. Yong Cheng.
+Dr. Kang Wei is an **Associate Professor** at Southeast University. He was previously a postdoctoral fellow at The Hong Kong Polytechnic University, supervised by Prof. Song Guo and Prof. Bin Xiao, both IEEE Fellows. 
+He received his Ph.D. from Nanjing University of Science and Technology under Prof. Jun Li and his B.S. in Information Engineering from Xidian University in 2014. From June to December 2021, he was a research intern at Tencent’s Rhinoceros Bird Project under Dr. Yong Cheng.
 
-Dr. Kang Wei's research focuses on trustworthy AI and distributed machine learning. His works has been published in flagship conferences and journals such as ICML, CVPR and TIFS. He also served as a reviewer for several top conferences and journals, such as Nature Communications, PATTERNS, NeurIPS, ICLR, KDD, IEEE JSAC, IEEE TWC, IEEE TSP, IEEE JSTSP, IEEE TIFS, IEEE TKDE, IEEE TMC and etc.
+Dr. Kang Wei's research focuses on trustworthy AI and distributed machine learning. 
+His works has been published in flagship conferences and journals such as ICML, CVPR and TIFS. He also served as a reviewer for several top conferences and journals, such as Nature Communications, PATTERNS, NeurIPS, ICLR, KDD, IEEE JSAC, IEEE TWC, IEEE TSP, IEEE JSTSP, IEEE TIFS, IEEE TKDE, IEEE TMC and etc.
 
 ---
 
@@ -64,7 +63,7 @@ NeurIPS, ICML, ICLR, KDD, WWW, AAAI
 
 ### Publications
 
-##### **Trustworthy AI**:
+##### **Trustworthy AI**
 
 [1] Shuchi Wu, Chuan Ma, **Kang Wei **, Xiaogang Xu, Ming Ding, Yuwen Qian, Tao Xiang, Refine, Discriminate and Align: Stealing Encoders via Sample-Wise Prototypes and Multi-Relational Extraction, **The 18th European Conference on Computer Vision (ECCV)**, 2024. [[**Code**](https://github.com/ShuchiWu/RDA)]
 
