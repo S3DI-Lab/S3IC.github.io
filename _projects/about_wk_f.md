@@ -23,7 +23,7 @@ His works has been published in flagship conferences and journals such as ICML, 
 ### Research Interests 
 
 - Trustworthy AI, e.g., diffusion modesl, GNN and federated learning
-- Efficiency in Distributed machine learning
+- Efficiency in distributed machine learning
 
 ---
 
@@ -51,6 +51,7 @@ IEEE ICWS-Internet of Intelligent Service Systems (IISS) Workshop (CCF-B Confere
 
 ##### TPC member
 AAAI 2024 (CCF-A Conference)
+
 IEEE iThings-International Workshop on Future Mobile Computing and Networking for Internet of Things (FMobile) (CCF-C Conference)
 
 ##### Journal reviewer (selected)
@@ -77,17 +78,17 @@ NeurIPS, ICML, ICLR, KDD, WWW, AAAI
 
 [6] **Kang Wei**, Jun Li, Ming Ding, Chuan Ma, Howard H. Yang, Farhad Farokhi, Shi Jin, Tony Q. S. Quek and H. Vincent Poor, Federated Learning with Differential Privacy: Algorithms and Performance Analysis, **IEEE Transactions on Information Forensics and Security (TIFS)**, 2020.
 
-[6] Jun Li, **Kang Wei **, Chuan Ma and Feng Shu, DP-GenFL: A Local Differentially Private Federated Learning System through Generative Data, **SCIENCE CHINA Information Sciences (SCIS)**, 2022.
+[7] Jun Li, **Kang Wei **, Chuan Ma and Feng Shu, DP-GenFL: A Local Differentially Private Federated Learning System through Generative Data, **SCIENCE CHINA Information Sciences (SCIS)**, 2022.
 
-[7] Xin Yuan, Wei Ni, Ming Ding, **Kang Wei **, Jun Li and H. Vincent Poor, Amplitude-Varying Perturbation for Balancing Privacy and Utility in Federated Learning, **IEEE Transactions on Information Forensics & Security (TIFS)**, 2023.
+[8] Xin Yuan, Wei Ni, Ming Ding, **Kang Wei **, Jun Li and H. Vincent Poor, Amplitude-Varying Perturbation for Balancing Privacy and Utility in Federated Learning, **IEEE Transactions on Information Forensics & Security (TIFS)**, 2023.
 
-[8] Chuan Ma, Jun Li, Ming Ding, Bo Liu, **Kang Wei **, RDP-GAN: A R{\'e}nyi-Differential Privacy based Generative Adversarial Network, Jian Weng and H. Vincent Poor, **IEEE Transactions on Dependable and Secure Computing (TDSC)**, 2023.
+[9] Chuan Ma, Jun Li, Ming Ding, Bo Liu, **Kang Wei **, RDP-GAN: A R{\'e}nyi-Differential Privacy based Generative Adversarial Network, Jian Weng and H. Vincent Poor, **IEEE Transactions on Dependable and Secure Computing (TDSC)**, 2023.
 
-[9] Chuan Ma, Jun Li, **Kang Wei **, Bo Liu, Ming Ding, Long Yuan, Zhu Han, H Vicent Poor, Trusted AI in multi-agent systems: An overview of privacy and security for distributed learning, **Proceedings of the IEEE**, 2023.
+[10] Chuan Ma, Jun Li, **Kang Wei **, Bo Liu, Ming Ding, Long Yuan, Zhu Han, H Vicent Poor, Trusted AI in multi-agent systems: An overview of privacy and security for distributed learning, **Proceedings of the IEEE**, 2023.
 
-[10] Jun Li, Yumeng Shao, **Kang Wei**, Ming Ding, Chuan Ma, Long Shi, Zhu Han and H Vincent Poor, Blockchain Assisted Decentralized Federated Learning (BLADE-FL): Performance Analysis and Resource Allocation, **IEEE Transactions on Parallel and Distributed Systems (TPDS)**, 2022.
+[11] Jun Li, Yumeng Shao, **Kang Wei**, Ming Ding, Chuan Ma, Long Shi, Zhu Han and H Vincent Poor, Blockchain Assisted Decentralized Federated Learning (BLADE-FL): Performance Analysis and Resource Allocation, **IEEE Transactions on Parallel and Distributed Systems (TPDS)**, 2022.
 
-[11] **Kang Wei**, Jun Li, Chuan Ma, Ming Ding and H. Vincent Poor, Differentially Private Federated Learning: Algorithm, Analysis and Optimization, **Federated Learning Systems, Springer Nature**, 2021.
+[12] **Kang Wei**, Jun Li, Chuan Ma, Ming Ding and H. Vincent Poor, Differentially Private Federated Learning: Algorithm, Analysis and Optimization, **Federated Learning Systems, Springer Nature**, 2021.
 
 ##### **End-Edge-Cloud Networks**
 
