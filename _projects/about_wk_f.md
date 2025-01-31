@@ -12,8 +12,7 @@ Email: **kangwei** [at] polyu [dot] edu [dot] hk<br>
 
 ---
 
-Dr. Kang Wei is an **Associate Professor** at Southeast University. He was previously a postdoctoral fellow at The Hong Kong Polytechnic University, supervised by Prof. Song Guo and Prof. Bin Xiao, both IEEE Fellows. 
-He received his Ph.D. from Nanjing University of Science and Technology under Prof. Jun Li and his B.S. in Information Engineering from Xidian University in 2014. From June to December 2021, he was a research intern at Tencent’s Rhinoceros Bird Project under Dr. Yong Cheng.
+Dr. Kang Wei will being an **Associate Professor** at Southeast University. He was previously a postdoctoral fellow at The Hong Kong Polytechnic University. He received his Ph.D. from Nanjing University of Science and Technology in 2023 and his B.S. in Information Engineering from Xidian University in 2014. From June to December 2021, he was a research intern at Tencent’s Rhinoceros Bird Project.
 
 Dr. Kang Wei's research focuses on trustworthy AI and distributed machine learning. 
 His works has been published in flagship conferences and journals such as ICML, CVPR and TIFS. He also served as a reviewer for several top conferences and journals, such as Nature Communications, PATTERNS, NeurIPS, ICLR, KDD, IEEE JSAC, IEEE TWC, IEEE TSP, IEEE JSTSP, IEEE TIFS, IEEE TKDE, IEEE TMC and etc.
