@@ -1,1 +1,1 @@
-# S3DI@SEU Homepage
+# $S^3DI$@SEU Homepage
