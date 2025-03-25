@@ -8,7 +8,7 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-The research lab for **S**ecure, **S**calable, and Re**S**ponsible **I**ntelligent **C**omputation (S<sup>3</sup>IC), led by Prof. [<span style="color: #2E86C1;">Songze Li</span>](https://s3ic-lab.github.io/projects/about_lsz_f/), works on a wide range of research topics to improve security, scalability, and trustworthiness of distributed computing frameworks, focusing on the applications of machine learning, artificial intelligence, and blockchain.
+The research lab for **S**ecure, **S**calable, and Re**S**ponsible **I**ntelligent **C**omputation (S<sup>3</sup>IC), led by Prof. [<span style="color: #2E86C1;">Songze Li</span>](https://s3ic.github.io/projects/about_lsz_f/), works on a wide range of research topics to improve security, scalability, and trustworthiness of distributed computing frameworks, focusing on the applications of machine learning, artificial intelligence, and blockchain.
 
 Our current research areas include: <br>
 1) Safety, privacy, and security of (multi-modal) large language models; <br>
