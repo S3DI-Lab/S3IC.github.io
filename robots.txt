@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://s3ic.github.ios3id_lab/sitemap.xml
+Sitemap: https://s3di-lab.github.io/s3ic.github.io//sitemap.xml
